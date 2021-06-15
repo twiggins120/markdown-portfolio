@@ -1,4 +1,4 @@
-[ ] peanut butter
-[ ] strawberries
-[ ] skittles
-[ ] reading
+* [ ] peanut butter
+* [ ] strawberries
+* [ ] skittles
+* [ ] reading
